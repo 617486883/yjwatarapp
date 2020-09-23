@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://223.95.80.98/app/app.ipa</string>
+					<string>http://223.95.80.98:8012/app/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://223.95.80.98/app/57.png</string>
+					<string>http://223.95.80.98:8012/app/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://223.95.80.98/app/512.png</string>
+					<string>http://223.95.80.98:8012/app/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
