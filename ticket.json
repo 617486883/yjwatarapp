@@ -1,0 +1,10 @@
+{  
+    "data":{
+    
+            "name"    : "永嘉智慧水务",
+            "bundle-version" : 1.0.0,
+            "build-version" : 1,
+            "updateContent" : "发布永嘉智慧水务新版本",
+            "download-url"  : "https://gitee.com/ll-ios/youpiao/raw/master/manifest.plist"
+    }
+}
